@@ -1,4 +1,4 @@
-// declare an array
+// declare  an array
 int[] age = new int[5];
 
 // initialize array
